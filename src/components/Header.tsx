@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingVertical: 20,
     marginTop: getStatusBarHeight(),
-    padding: 20,
   },
 
   greeting: {
@@ -47,6 +46,6 @@ const styles = StyleSheet.create({
   image: {
     width: 70,
     height: 70,
-    borderRadius: 40,
+    borderRadius: 35,
   },
 });
